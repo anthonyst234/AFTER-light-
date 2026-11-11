@@ -1,0 +1,6 @@
+{
+  "name": "AFTERLIGHT - 2D Pixel Endless Runner",
+  "description": "The city never sleeps. Neither do you. A stylish 2D pixel-art endless runner with procedural traps, epic boss chases, dynamic palette shifts, skills, and character customization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
